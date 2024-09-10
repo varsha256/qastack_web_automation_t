@@ -4,12 +4,12 @@ This repository provides a boilerplate for quickly setting up a web automation f
 
 ## Test Cases Covered
 
-### 1. Basic Google Search Test
+### 1. Basic Google search Test
 - Opens the Google search page.
 - Searches for a valid keyword.
 - Verifies that search results are displayed and counts the number of results.
 
-### 2. Invalid Search Test
+### 2. Invalid search Test
 - Opens the Google search page.
 - Searches for junk or random keywords.
 - Verifies that the number of results returned is zero.
